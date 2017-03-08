@@ -9,6 +9,7 @@ Screenshotlayer
 0. Go to [Screenshotlayer website](https://screenshotlayer.com) 
 1. Log in or create a new account
 2. Go to [Dashboard page](https://screenshotlayer.com/dashboard) to get your API key
+
 ## Screenshotlayer.captureSnapshot
 Verify the provided address
 
