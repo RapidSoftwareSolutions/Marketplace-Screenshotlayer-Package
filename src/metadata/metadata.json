@@ -50,7 +50,8 @@
         },
         {
           "name": "outputFormat",
-          "type": "String",
+          "type": "Select",
+          "options": ["PNG", "JPG", "GIF"],
           "info": "Your snapshots can be requested in three different formats: PNG, JPG and GIF. You can change the default format (PNG) simply by appending the API's outputFormat parameter containing your preferred format",
           "required": false
         },
